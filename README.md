@@ -14,3 +14,7 @@ GNU Arm Embedded Toolchain: uso 10 2020-q4-major
 python: el entorno python3 está bien, python3.7.9
 agrego el directorio de archivos bin de las dos herramientas anteriores a la ruta del sistema y también agrego el directorio python dentro de la ruta
 
+El ejemplo ejecutado es:
+![image](https://user-images.githubusercontent.com/1444408/135130999-6c9ed4fb-d59a-48a4-89c5-0ad41e111239.png)
+
+
